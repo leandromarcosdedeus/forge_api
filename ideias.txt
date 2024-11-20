@@ -1,0 +1,95 @@
+1. Controle de Estoque
+A fundição lida com matérias-primas, insumos, peças acabadas e sucatas. O sistema pode ser configurado para gerenciar cada um desses itens de forma detalhada:
+
+Funcionalidades Específicas:
+Cadastro de Matérias-Primas:
+Registro de insumos como ferro, aço, alumínio, areia de fundição, aditivos químicos, etc.
+Monitoramento de quantidade disponível, unidade de medida (ex.: toneladas, quilos, litros) e ponto de reposição.
+Movimentação de Estoque:
+Entrada: Registro de matérias-primas recebidas de fornecedores, incluindo notas fiscais.
+Saída: Consumo em processos de produção.
+Alertas automáticos para níveis mínimos de estoque.
+Estoque de Produtos Acabados:
+Registro de peças fundidas (com especificações como tipo, peso e lote).
+Controle de envio para clientes e rastreamento por lote ou número de série.
+Gestão de Resíduos e Sucatas:
+Registro de sucatas geradas durante a produção.
+Monitoramento de reciclagem ou descarte adequado.
+Exemplo Prático:
+Se a fundição consome 1 tonelada de ferro por semana e o estoque chegar a 2 toneladas, o sistema pode enviar um alerta para iniciar uma nova compra.
+
+2. Controle de Produção e Ordens de Serviço
+A produção em uma fundição é baseada em ordens de serviço (OS), que envolvem o planejamento e execução de processos.
+
+Funcionalidades Específicas:
+Criação de Ordens de Produção:
+Detalhamento de peças a serem produzidas (quantidade, material, especificações técnicas).
+Associações com clientes ou contratos específicos.
+Rastreamento do Processo:
+Status da produção (em andamento, finalizado, atrasado).
+Consumo de matérias-primas por OS (ex.: ferro consumido para produzir um lote de peças).
+Relatórios de Eficiência:
+Comparação entre matéria-prima planejada e utilizada.
+Identificação de desperdícios no processo.
+
+3. Controle de Fluxo de Caixa e Faturamento
+Funcionalidades Específicas:
+Registro de Custos:
+Custos fixos (ex.: manutenção de fornos, energia elétrica).
+Custos variáveis (matérias-primas, mão de obra).
+Receitas:
+Registro de vendas de peças fundidas.
+Integração com emissão de notas fiscais eletrônicas.
+Relatórios Financeiros:
+Margem de lucro por lote produzido.
+Previsão de fluxo de caixa com base em pedidos futuros.
+Exemplo Prático:
+Após produzir um lote de 500 peças, o sistema calcula automaticamente o custo por unidade com base no consumo de insumos e energia.
+
+4. Planejamento e Previsão de Demanda
+Funcionalidades Específicas:
+Histórico de Produção:
+Análise de pedidos anteriores para prever demandas futuras.
+Previsão de Estoque:
+Sugestões de compra baseadas em tendências sazonais ou contratos recorrentes.
+Exemplo Prático:
+Se um cliente faz pedidos recorrentes de peças em janeiro e julho, o sistema sugere antecipar a compra de matérias-primas em dezembro e junho.
+
+5. Gestão de Qualidade e Inspeções
+Funcionalidades Específicas:
+Registro de Não-Conformidades:
+Cadastro de peças rejeitadas ou com defeitos.
+Relatórios automáticos para análise de causas (ex.: problema com temperatura do forno ou matéria-prima).
+Histórico de Inspeções:
+Controle de peças que passaram por inspeções de qualidade.
+6. Relatórios Detalhados
+O sistema pode gerar relatórios específicos para auxiliar na tomada de decisão, como:
+
+Relatório de Consumo de Matérias-Primas: Quanto foi utilizado em cada lote produzido.
+Relatório de Custos por Ordem de Serviço: Mostrando a rentabilidade de cada produção.
+Relatório de Estoque Atualizado: Incluindo matérias-primas, produtos acabados e sucatas.
+Relatório de Prazos: Status de entregas pendentes para clientes.
+Diferenciais para uma Fundição
+Integração com Máquinas: Conexão com sensores industriais para monitorar dados de temperatura, consumo de energia e produção em tempo real.
+Controle de Contratos: Gestão de contratos com grandes clientes, incluindo prazos e condições específicas.
+Dashboard em Tempo Real: Um painel com informações cruciais sobre estoque, produção e vendas para facilitar o acompanhamento diário.
+Modelo de Monetização
+Assinatura Mensal:
+
+Planos baseados no tamanho da fundição (ex.: número de funcionários ou capacidade de produção).
+Funcionalidades adicionais, como integração com máquinas ou relatórios avançados, disponíveis nos planos premium.
+Treinamento e Consultoria:
+
+Serviço de implementação e treinamento para equipes da fundição.
+Integração Avançada:
+
+Cobrança por módulos adicionais, como conectividade com ERPs maiores ou sistemas de automação.
+Exemplo de Uso na Prática
+Entrada de Matérias-Primas:
+A fundição recebe 10 toneladas de ferro e insere a quantidade no sistema, associando ao fornecedor.
+Produção de Peças:
+É criada uma OS para fundir 500 engrenagens. O sistema calcula o consumo estimado de ferro e energia.
+Controle de Estoque:
+Após o término da produção, o estoque é atualizado automaticamente: o ferro é descontado, e as 500 engrenagens são adicionadas.
+Envio para Cliente:
+As engrenagens são despachadas, e o sistema emite a nota fiscal e atualiza o saldo de estoque.
